@@ -7,6 +7,6 @@ Team –
     
 	IMT2020047 Lakshmi Sahiti
 	
-	IMT2020048 Varad Bhade
+	IMT2020048 Varad Badhe
 	
 	IMT2020049 Vaibhav Thapliyal
