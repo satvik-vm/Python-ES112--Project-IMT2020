@@ -5,7 +5,7 @@ Team –
 
 	IMT2020046 Satvik Verma
     
-	IMT2020047 Lakshmi Sahiti
+	IMT2020047 Lakshmi Sahithi
 	
 	IMT2020048 Varad Badhe
 	
